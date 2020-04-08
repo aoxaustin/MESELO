@@ -44,11 +44,11 @@ The stock data used in paper is located at ./data/alginput/real/chinaStock/stock
 
 Database structure, just import ./node.sql to MySQL database.  
 
-# Paper info:
+## Paper info:
 
 [Xiang Ao, Ping Luo, Chengkai Li, Fuzhen Zhuang, Qing He. Online Frequent Episode Mining. In Proceedings of the 31st IEEE International Conference on Data Engineering (ICDE 2015).](https://ieeexplore.ieee.org/document/7113342)
 
-# Bibtex:
+## Bibtex:
 
 @inproceedings{ao2015online,  
   title={Online frequent episode mining},  
