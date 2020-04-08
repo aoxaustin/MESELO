@@ -49,7 +49,7 @@ Database structure, just import ./node.sql to MySQL database.
 [Xiang Ao, Ping Luo, Chengkai Li, Fuzhen Zhuang, Qing He. Online Frequent Episode Mining. In Proceedings of the 31st IEEE International Conference on Data Engineering (ICDE 2015).](https://ieeexplore.ieee.org/document/7113342)
 
 ## Bibtex:
-(```)
+`
 @inproceedings{ao2015online,  
   title={Online frequent episode mining},  
   author={Ao, Xiang and Luo, Ping and Li, Chengkai and Zhuang, Fuzhen and He, Qing},  
@@ -58,4 +58,4 @@ Database structure, just import ./node.sql to MySQL database.
   year={2015},  
   organization={IEEE}  
 }
-(```)
+`
