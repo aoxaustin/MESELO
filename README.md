@@ -50,12 +50,12 @@ Database structure, just import ./node.sql to MySQL database.
 
 ## Bibtex:
 
-@inproceedings{ao2015online,  
-  title={Online frequent episode mining},  
-  author={Ao, Xiang and Luo, Ping and Li, Chengkai and Zhuang, Fuzhen and He, Qing},  
-  booktitle={2015 IEEE 31st International Conference on Data Engineering},  
-  pages={891--902},  
-  year={2015},  
-  organization={IEEE}  
-}
+> @inproceedings{ao2015online,  
+>  title={Online frequent episode mining},  
+>  author={Ao, Xiang and Luo, Ping and Li, Chengkai and Zhuang, Fuzhen and He, Qing},  
+>  booktitle={2015 IEEE 31st International Conference on Data Engineering},  
+>  pages={891--902},  
+>  year={2015},  
+>  organization={IEEE}  
+> }
 
